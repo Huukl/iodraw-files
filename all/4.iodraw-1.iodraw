@@ -38,7 +38,7 @@
           <mxGeometry x="540" y="443.5" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-11" value="事件汇聚与全局事件流生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="690" width="252" height="49" as="geometry" />
+          <mxGeometry x="322" y="662" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-16" value="规则检测&#xa;结构明确异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="1170" width="234" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="255" y="780" width="360" height="331" as="geometry" />
+          <mxGeometry x="255" y="779" width="360" height="331" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="NGF_PXvzEg_VlZR0H_Gz-47">
           <mxGeometry width="360" height="331" as="geometry" />
