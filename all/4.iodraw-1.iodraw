@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-2" value="异常检测层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="154.5" y="1274" width="601" height="215" as="geometry" />
+          <mxGeometry x="160" y="1200" width="601" height="215" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-4" target="NGF_PXvzEg_VlZR0H_Gz-3">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="779" width="360" height="331" as="geometry" />
+          <mxGeometry x="260" y="779" width="360" height="331" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="NGF_PXvzEg_VlZR0H_Gz-47">
           <mxGeometry width="360" height="331" as="geometry" />
