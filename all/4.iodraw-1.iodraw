@@ -11,7 +11,7 @@
           <mxGeometry x="153.5" y="1400" width="601" height="215" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="187" y="790" width="485" height="465" as="geometry" />
+          <mxGeometry x="140" y="790" width="485" height="465" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-4" value="AgentRunner事件聚合层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="590" height="99" as="geometry" />
