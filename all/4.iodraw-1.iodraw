@@ -26,7 +26,7 @@
           <mxGeometry x="220" y="450" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-8" value="资源控制 &amp; 去重检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="364" y="739" width="245" height="49" as="geometry" />
+          <mxGeometry x="350" y="720" width="245" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-9" value="输出 L2 分析结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="267" y="869" width="182" height="49" as="geometry" />
@@ -80,12 +80,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C7FyfUHPY2D4UcV8D9kj-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.7;entryY=0.01;rounded=0;" edge="1" parent="1" source="C7FyfUHPY2D4UcV8D9kj-7" target="C7FyfUHPY2D4UcV8D9kj-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="235" y="647" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="C7FyfUHPY2D4UcV8D9kj-19" value="否" style="startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.7;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="C7FyfUHPY2D4UcV8D9kj-7" target="C7FyfUHPY2D4UcV8D9kj-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="C7FyfUHPY2D4UcV8D9kj-7" target="C7FyfUHPY2D4UcV8D9kj-8">
           <mxGeometry relative="1" as="geometry">
@@ -113,8 +109,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="349" y="399" />
-              <mxPoint x="349" y="431" />
-              <mxPoint x="487" y="431" />
+              <mxPoint x="349" y="420" />
+              <mxPoint x="487" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
