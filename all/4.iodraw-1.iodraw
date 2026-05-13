@@ -49,7 +49,7 @@
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-16" value="规则检测&#xa;结构明确异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199" y="1440" width="234" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-17" value="LLM语义分析&#xa;复杂行为评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-17" value="LLM分析&#xa;复杂行为评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="483" y="1431" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-18" value="规则优先 + 语义补充策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
