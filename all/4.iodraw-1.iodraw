@@ -25,10 +25,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-5" value="时间戳标准化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="334.5" y="560" width="246.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-6" target="NGF_PXvzEg_VlZR0H_Gz-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="316.75" y="560" width="246.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-6" value="数据采集层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="600" height="120" as="geometry" />
