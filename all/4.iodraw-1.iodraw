@@ -47,13 +47,13 @@
           <mxGeometry x="305" y="860" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-13" value="Agent归因&#xa;多信号融合评分&#xa;父子进程继承" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="930" width="260" height="66" as="geometry" />
+          <mxGeometry x="305" y="930" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-14" value="事件聚合与行为片段生成&#xa;滑动时间窗口 + 时间/资源/语义关联度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="1020" width="260" height="84" as="geometry" />
+          <mxGeometry x="305" y="1020" width="260" height="84" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-15" value="多粒度行为摘要&#xa;单Agent序列/资源窗口/跨Agent协作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="1130" width="260" height="66" as="geometry" />
+          <mxGeometry x="305" y="1130" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-16" value="规则检测&#xa;结构明确异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199" y="1440" width="234" height="49" as="geometry" />
@@ -67,9 +67,10 @@
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-19" value="结构化Agent行为单元&#xa;行为语义与时间结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="1671" width="260" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-12" target="NGF_PXvzEg_VlZR0H_Gz-13">
+        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="NGF_PXvzEg_VlZR0H_Gz-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="431.75" y="909" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-13" target="NGF_PXvzEg_VlZR0H_Gz-14">
