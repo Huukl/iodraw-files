@@ -23,7 +23,7 @@
           <mxGeometry x="299" y="339" width="177" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-7" value="置信度达阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="213" y="460" width="151" height="151" as="geometry" />
+          <mxGeometry x="213" y="460" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-8" value="资源控制 &amp; 去重检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="379" y="782" width="245" height="49" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="514" y="903" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-11" value="触发 L3 升级?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="414" y="463" width="145" height="145" as="geometry" />
+          <mxGeometry x="414" y="463" width="145" height="77" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-12" value="L3 深度分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="487" y="683" width="145" height="49" as="geometry" />
