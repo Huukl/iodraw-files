@@ -29,7 +29,7 @@
           <mxGeometry x="635" y="435" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-10" value="统一时间戳处理&#xa;消除不同数据源延迟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="329" y="601" width="250" height="66" as="geometry" />
+          <mxGeometry x="329" y="610" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-11" value="事件汇聚与全局事件流生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="329" y="768" width="252" height="49" as="geometry" />
