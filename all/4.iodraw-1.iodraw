@@ -43,10 +43,7 @@
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-11" value="事件汇聚与全局事件流生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="322" y="690" width="252" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-12" target="NGF_PXvzEg_VlZR0H_Gz-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-12" target="NGF_PXvzEg_VlZR0H_Gz-14">
+        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-12" target="NGF_PXvzEg_VlZR0H_Gz-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-12" value="噪声过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
