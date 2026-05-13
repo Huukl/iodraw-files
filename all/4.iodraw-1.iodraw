@@ -24,8 +24,8 @@
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-5" target="NGF_PXvzEg_VlZR0H_Gz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-5" value="时间戳标准化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="130" y="560" width="650" height="116" as="geometry" />
+        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-5" value="时间戳标准化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="205" y="570" width="500" height="116" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-6" value="数据采集层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="130" y="410" width="650" height="120" as="geometry" />
