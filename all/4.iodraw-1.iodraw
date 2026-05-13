@@ -41,16 +41,16 @@
           <mxGeometry x="322" y="690" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-12" value="噪声过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="850" width="260" height="49" as="geometry" />
+          <mxGeometry x="305" y="860" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-13" value="Agent归因&#xa;多信号融合评分&#xa;父子进程继承" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="948" width="260" height="66" as="geometry" />
+          <mxGeometry x="308.25" y="930" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-14" value="事件聚合与行为片段生成&#xa;滑动时间窗口 + 时间/资源/语义关联度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="1045" width="260" height="84" as="geometry" />
+          <mxGeometry x="308.25" y="1020" width="260" height="84" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-15" value="多粒度行为摘要&#xa;单Agent序列/资源窗口/跨Agent协作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311.75" y="1160" width="260" height="66" as="geometry" />
+          <mxGeometry x="308.25" y="1130" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-16" value="规则检测&#xa;结构明确异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199" y="1440" width="234" height="49" as="geometry" />
