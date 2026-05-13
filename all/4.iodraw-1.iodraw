@@ -20,10 +20,10 @@
           <mxGeometry x="96" y="640" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-6" value="L2 初步语义分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="360" width="177" height="49" as="geometry" />
+          <mxGeometry x="260" y="350" width="177" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-7" value="置信度达阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="213" y="460" width="151" height="80" as="geometry" />
+          <mxGeometry x="220" y="450" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-8" value="资源控制 &amp; 去重检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="364" y="739" width="245" height="49" as="geometry" />
