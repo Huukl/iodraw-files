@@ -11,7 +11,7 @@
           <mxGeometry x="153.5" y="1400" width="601" height="215" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="140" y="790" width="485" height="465" as="geometry" />
+          <mxGeometry x="192.5" y="800" width="485" height="465" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-4" value="AgentRunner事件聚合层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="590" height="99" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="322" y="690" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-12" value="噪声过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="393" y="916" width="124" height="49" as="geometry" />
+          <mxGeometry x="373" y="850" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-13" value="Agent归因&#xa;多信号融合评分&#xa;父子进程继承" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="1015" width="260" height="66" as="geometry" />
