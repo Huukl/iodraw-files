@@ -17,7 +17,7 @@
           <mxGeometry x="226" y="217" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-5" value="下游输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="111" y="683" width="124" height="49" as="geometry" />
+          <mxGeometry x="96" y="640" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-6" value="L2 初步语义分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299" y="339" width="177" height="49" as="geometry" />
@@ -26,19 +26,19 @@
           <mxGeometry x="213" y="460" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-8" value="资源控制 &amp; 去重检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="379" y="782" width="245" height="49" as="geometry" />
+          <mxGeometry x="364" y="739" width="245" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-9" value="输出 L2 分析结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="282" y="912" width="182" height="49" as="geometry" />
+          <mxGeometry x="267" y="869" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-10" value="生成 ai_budget_status / ai_provider_error" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="514" y="903" width="232" height="66" as="geometry" />
+          <mxGeometry x="499" y="860" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-11" value="触发 L3 升级?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="414" y="463" width="145" height="77" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-12" value="L3 深度分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="487" y="683" width="145" height="49" as="geometry" />
+          <mxGeometry x="472" y="640" width="145" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="C7FyfUHPY2D4UcV8D9kj-1" target="C7FyfUHPY2D4UcV8D9kj-2">
           <mxGeometry relative="1" as="geometry">
@@ -99,14 +99,14 @@
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-21" value="允许" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C7FyfUHPY2D4UcV8D9kj-8" target="C7FyfUHPY2D4UcV8D9kj-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="373" y="867" />
+              <mxPoint x="358" y="824" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-22" value="拒绝" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="C7FyfUHPY2D4UcV8D9kj-8" target="C7FyfUHPY2D4UcV8D9kj-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="867" />
+              <mxPoint x="615" y="824" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -127,7 +127,7 @@
         <mxCell id="C7FyfUHPY2D4UcV8D9kj-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.62;entryY=0;rounded=0;" edge="1" parent="1" source="C7FyfUHPY2D4UcV8D9kj-12" target="C7FyfUHPY2D4UcV8D9kj-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="757" />
+              <mxPoint x="545" y="714" />
             </Array>
           </mxGeometry>
         </mxCell>
