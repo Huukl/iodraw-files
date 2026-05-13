@@ -25,16 +25,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-5" value="时间戳标准化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="576" width="663" height="116" as="geometry" />
-        </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-6" target="NGF_PXvzEg_VlZR0H_Gz-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="20" y="576" width="880" height="116" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-6" value="数据采集层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="410" width="882" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-7" value="Process Runner&#xa;(进程 &amp; 文件事件)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="435" width="220" height="66" as="geometry" />
+          <mxGeometry x="120" y="435" width="155" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-8" value="SSL Runner&#xa;(网络通信事件)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="444" width="260" height="49" as="geometry" />
