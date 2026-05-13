@@ -28,7 +28,7 @@
           <mxGeometry x="20" y="576" width="880" height="116" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-6" value="数据采集层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="410" width="882" height="120" as="geometry" />
+          <mxGeometry x="130" y="410" width="650" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-7" value="Process Runner&#xa;(进程 &amp; 文件事件)" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="443.5" width="155" height="66" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="342" y="452" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-9" value="System Runner&#xa;(系统资源指标)" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="557" y="437" width="172" height="66" as="geometry" />
+          <mxGeometry x="550" y="443.5" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-10" value="统一时间戳处理&#xa;消除不同数据源延迟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="329" y="610" width="250" height="66" as="geometry" />
