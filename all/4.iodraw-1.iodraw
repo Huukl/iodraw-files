@@ -62,10 +62,10 @@
           <mxGeometry x="199" y="1330" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-17" value="LLM分析&#xa;复杂行为评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="466" y="1330" width="246" height="66" as="geometry" />
+          <mxGeometry x="466" y="1313" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-18" value="规则优先 + LLM补充策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1548" width="238" height="49" as="geometry" />
+          <mxGeometry x="336" y="1420" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-19" value="结构化Agent行为单元&#xa;行为语义与时间结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="1671" width="260" height="66" as="geometry" />
@@ -87,12 +87,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-17" target="NGF_PXvzEg_VlZR0H_Gz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="606" y="1523" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-17" target="NGF_PXvzEg_VlZR0H_Gz-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-3" target="NGF_PXvzEg_VlZR0H_Gz-2">
           <mxGeometry relative="1" as="geometry" />
