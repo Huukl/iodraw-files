@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="IHLbFXQ452kPxqtsoiGP">
-    <mxGraphModel dx="1011" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2426" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-2" value="异常检测层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1140" width="600" height="215" as="geometry" />
+          <mxGeometry x="140" y="1129" width="600" height="191" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-4" target="NGF_PXvzEg_VlZR0H_Gz-3">
           <mxGeometry relative="1" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="460" y="1169" width="246" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-18" value="规则优先 + LLM补充策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="329" y="1270" width="238" height="49" as="geometry" />
+          <mxGeometry x="329" y="1240" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-19" value="结构化Agent行为单元&#xa;行为语义与时间结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1385" width="260" height="66" as="geometry" />
+          <mxGeometry x="310" y="1342" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-30" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.21;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-16" target="NGF_PXvzEg_VlZR0H_Gz-18">
           <mxGeometry relative="1" as="geometry" />
