@@ -44,7 +44,7 @@
           <mxGeometry x="460" y="1169" width="246" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-18" value="规则优先 + LLM补充策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1410" width="238" height="49" as="geometry" />
+          <mxGeometry x="329" y="1270" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-19" value="结构化Agent行为单元&#xa;行为语义与时间结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="318" y="1520" width="260" height="66" as="geometry" />
@@ -55,11 +55,8 @@
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-17" target="NGF_PXvzEg_VlZR0H_Gz-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-3" target="NGF_PXvzEg_VlZR0H_Gz-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="779" width="360" height="331" as="geometry" />
+          <mxGeometry x="255" y="790" width="360" height="331" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="NGF_PXvzEg_VlZR0H_Gz-47">
           <mxGeometry width="360" height="331" as="geometry" />
