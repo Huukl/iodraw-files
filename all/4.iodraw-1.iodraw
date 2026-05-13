@@ -11,7 +11,7 @@
           <mxGeometry x="153.5" y="1400" width="601" height="215" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="800" width="485" height="465" as="geometry" />
+          <mxGeometry x="260" y="800" width="370" height="465" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-4" value="AgentRunner事件聚合层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="590" height="99" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="308.25" y="1060" width="250" height="84" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-15" value="多粒度行为摘要&#xa;单Agent序列/资源窗口/跨Agent协作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1265" width="260" height="66" as="geometry" />
+          <mxGeometry x="311.75" y="1169" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-16" value="规则检测&#xa;结构明确异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199" y="1440" width="234" height="49" as="geometry" />
