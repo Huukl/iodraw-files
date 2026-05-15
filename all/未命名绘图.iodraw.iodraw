@@ -19,14 +19,14 @@
         <mxCell id="IaHU0e2Hu6B_418q_M95-6" value="底层数据采集层&#xa;eBPF捕获进程、文件、网络事件" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="159.5" width="310" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-7" value="事件标准化&#xa;统一事件结构，消除数据源差异" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-7" value="事件标准化&#xa;统一事件结构，消除数据源差异" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="54.5" y="350" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-8" value="Agent归因&#xa;将事件映射至具体Agent实例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="54.5" y="453" width="245.5" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-9" value="时间窗口聚合&#xa;添加到Agent行为时间窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="570" width="245" height="66" as="geometry" />
+          <mxGeometry x="54.5" y="560" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-10" value="时间窗口准备就绪？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="784" width="193" height="193" as="geometry" />
