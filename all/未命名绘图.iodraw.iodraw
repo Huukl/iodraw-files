@@ -20,13 +20,13 @@
           <mxGeometry x="210" y="159.5" width="310" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-7" value="事件标准化&#xa;统一事件结构，消除数据源差异" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="328" width="252" height="84" as="geometry" />
+          <mxGeometry x="54.5" y="350" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-8" value="Agent归因&#xa;将事件映射至具体Agent实例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="58" y="461" width="245" height="84" as="geometry" />
+          <mxGeometry x="54.5" y="453" width="245" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-9" value="时间窗口聚合&#xa;添加到Agent行为时间窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="58" y="595" width="245" height="66" as="geometry" />
+          <mxGeometry x="54.5" y="570" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-10" value="时间窗口准备就绪？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="784" width="193" height="193" as="geometry" />
