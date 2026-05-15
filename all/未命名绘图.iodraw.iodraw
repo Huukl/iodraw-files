@@ -47,12 +47,12 @@
         <mxCell id="IaHU0e2Hu6B_418q_M95-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-13" target="IaHU0e2Hu6B_418q_M95-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="1155" />
+              <mxPoint x="460" y="1105" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-13" value="检测到异常？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1120" width="134.5" height="70" as="geometry" />
+          <mxGeometry x="320" y="1070" width="134.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="245" y="1330" width="254" height="66" as="geometry" />
