@@ -65,10 +65,10 @@
           <mxGeometry x="320" y="887" width="134.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260.25" y="1009" width="254" height="66" as="geometry" />
+          <mxGeometry x="260.25" y="990" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-15" value="前端展示&#xa;时间线、行为图谱、多Agent比较" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260.25" y="1099" width="255" height="84" as="geometry" />
+          <mxGeometry x="260.25" y="1089" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-6" target="IaHU0e2Hu6B_418q_M95-7">
           <mxGeometry relative="1" as="geometry">
