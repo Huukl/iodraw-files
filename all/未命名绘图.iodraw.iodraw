@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gCBG1cDcvumI4Y-Y0VZk">
-    <mxGraphModel dx="1213" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,10 +30,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-10" value="时间窗口准备就绪？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="620" width="183" height="150" as="geometry" />
+          <mxGeometry x="200" y="620" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-11" value="行为序列构建&#xa;聚合连续事件形成Agent行为片段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="169" y="820" width="245" height="84" as="geometry" />
+          <mxGeometry x="169" y="760" width="245" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-12" target="IaHU0e2Hu6B_418q_M95-13">
           <mxGeometry relative="1" as="geometry" />
@@ -51,11 +51,11 @@
         <mxCell id="IaHU0e2Hu6B_418q_M95-13" value="检测到异常？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="1040" width="134.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260.25" y="1130" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-15" value="前端展示&#xa;时间线、行为图谱、多Agent比较" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1320" width="255" height="84" as="geometry" />
+          <mxGeometry x="260.25" y="1220" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-6" target="IaHU0e2Hu6B_418q_M95-7">
           <mxGeometry relative="1" as="geometry">
