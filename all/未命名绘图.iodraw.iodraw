@@ -8,10 +8,10 @@
           <mxGeometry x="24.5" y="1430" width="615.5" height="134" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-2" value="行为分析与异常检测层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="24.5" y="668" width="477" height="622" as="geometry" />
+          <mxGeometry x="24.5" y="640" width="477" height="622" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-3" value="底层采集层" style="whiteSpace=wrap;strokeWidth=2;dashed=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="24.5" y="303" width="322" height="347" as="geometry" />
+          <mxGeometry x="24.5" y="303" width="322" height="317" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-4" value="系统运行循环" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="24.5" y="120" width="588" height="163" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="55" y="540" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-10" value="时间窗口准备就绪？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="700" width="193" height="193" as="geometry" />
+          <mxGeometry x="180" y="670" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-11" value="行为序列构建&#xa;聚合连续事件形成Agent行为片段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="154" y="920" width="245" height="84" as="geometry" />
