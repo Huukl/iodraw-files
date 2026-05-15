@@ -42,17 +42,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-12" value="异常检测&#xa;规则检测 + LLM语义分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="174.5" y="870" width="234" height="66" as="geometry" />
+          <mxGeometry x="174.5" y="840" width="234" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-13" target="IaHU0e2Hu6B_418q_M95-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="985" />
+              <mxPoint x="460" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IaHU0e2Hu6B_418q_M95-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaHU0e2Hu6B_418q_M95-33">
+          <mxGeometry x="0.2924" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-13" value="检测到异常？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="950" width="134.5" height="70" as="geometry" />
+          <mxGeometry x="320" y="906" width="134.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="261.25" y="1050" width="254" height="66" as="geometry" />
