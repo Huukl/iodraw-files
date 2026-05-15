@@ -32,6 +32,11 @@
             <mxPoint x="410" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IaHU0e2Hu6B_418q_M95-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaHU0e2Hu6B_418q_M95-38">
+          <mxGeometry x="-0.1202" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-10" value="时间窗口准备就绪？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="590" width="183" height="100" as="geometry" />
         </mxCell>
@@ -51,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaHU0e2Hu6B_418q_M95-33">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaHU0e2Hu6B_418q_M95-33">
           <mxGeometry x="0.2924" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -60,7 +65,7 @@
           <mxGeometry x="320" y="906" width="134.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="261.25" y="1050" width="254" height="66" as="geometry" />
+          <mxGeometry x="260.25" y="1010" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-15" value="前端展示&#xa;时间线、行为图谱、多Agent比较" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="261.25" y="1150" width="255" height="84" as="geometry" />
