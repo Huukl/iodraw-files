@@ -7,13 +7,13 @@
         <mxCell id="IaHU0e2Hu6B_418q_M95-1" value="可视化输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24.5" y="1470" width="615.5" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-2" value="行为分析与异常检测层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-2" value="行为分析与异常检测层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="24.5" y="668" width="477" height="692" as="geometry" />
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-3" value="底层采集层" style="whiteSpace=wrap;strokeWidth=2;dashed=1;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-3" value="底层采集层" style="whiteSpace=wrap;strokeWidth=2;dashed=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="24.5" y="303" width="322" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-4" value="系统运行循环" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-4" value="系统运行循环" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="24.5" y="120" width="588" height="163" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-6" value="底层数据采集层&#xa;eBPF捕获进程、文件、网络事件" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
