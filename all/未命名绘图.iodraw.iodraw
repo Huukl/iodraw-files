@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IaHU0e2Hu6B_418q_M95-1" value="可视化输出层" style="whiteSpace=wrap;strokeWidth=2;dashed=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="24.5" y="1430" width="615.5" height="134" as="geometry" />
-        </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-6" value="底层数据采集层&#xa;eBPF捕获进程、文件、网络事件" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="159.5" width="310" height="84" as="geometry" />
         </mxCell>
@@ -55,10 +52,10 @@
           <mxGeometry x="320" y="1040" width="134.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="245" y="1330" width="254" height="66" as="geometry" />
+          <mxGeometry x="260.25" y="1130" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-15" value="前端展示&#xa;时间线、行为图谱、多Agent比较" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1455" width="255" height="84" as="geometry" />
+          <mxGeometry x="270" y="1320" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-6" target="IaHU0e2Hu6B_418q_M95-7">
           <mxGeometry relative="1" as="geometry">
@@ -87,8 +84,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-14" target="IaHU0e2Hu6B_418q_M95-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IaHU0e2Hu6B_418q_M95-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-14" target="IaHU0e2Hu6B_418q_M95-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397.1419999999998" y="1298.124" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
