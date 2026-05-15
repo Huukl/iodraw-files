@@ -1,10 +1,10 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gCBG1cDcvumI4Y-Y0VZk">
-    <mxGraphModel dx="1011" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IaHU0e2Hu6B_418q_M95-1" value="可视化输出层" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-1" value="可视化输出层" style="whiteSpace=wrap;strokeWidth=2;dashed=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="24.5" y="1430" width="615.5" height="134" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-2" value="行为分析与异常检测层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;dashed=1;" vertex="1" parent="1">
@@ -20,13 +20,13 @@
           <mxGeometry x="210" y="159.5" width="310" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-7" value="事件标准化&#xa;统一事件结构，消除数据源差异" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="350" width="252" height="84" as="geometry" />
+          <mxGeometry x="51.25" y="340" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-8" value="Agent归因&#xa;将事件映射至具体Agent实例" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="453" width="245.5" height="84" as="geometry" />
+          <mxGeometry x="54.5" y="434.5" width="245.5" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-9" value="时间窗口聚合&#xa;添加到Agent行为时间窗口" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="560" width="245" height="66" as="geometry" />
+          <mxGeometry x="55" y="540" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-10" value="时间窗口准备就绪？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="700" width="193" height="193" as="geometry" />
@@ -51,10 +51,10 @@
           <mxGeometry x="299.5" y="1120" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="1340" width="254" height="66" as="geometry" />
+          <mxGeometry x="245" y="1330" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-15" value="前端展示&#xa;时间线、行为图谱、多Agent比较" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1460" width="255" height="84" as="geometry" />
+          <mxGeometry x="210" y="1455" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-6" target="IaHU0e2Hu6B_418q_M95-7">
           <mxGeometry relative="1" as="geometry">
@@ -97,6 +97,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IaHU0e2Hu6B_418q_M95-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-14" target="IaHU0e2Hu6B_418q_M95-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
