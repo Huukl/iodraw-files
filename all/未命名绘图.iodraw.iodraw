@@ -34,9 +34,6 @@
         <mxCell id="IaHU0e2Hu6B_418q_M95-11" value="行为序列构建&#xa;聚合连续事件形成Agent行为片段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="154.5" y="940" width="245" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-12" target="IaHU0e2Hu6B_418q_M95-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-12" value="异常检测&#xa;规则检测 + LLM语义分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="1070" width="234" height="66" as="geometry" />
         </mxCell>
@@ -113,6 +110,9 @@
               <mxPoint x="577" y="253" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IaHU0e2Hu6B_418q_M95-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.233;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-12" target="IaHU0e2Hu6B_418q_M95-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
