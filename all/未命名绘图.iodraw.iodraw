@@ -32,13 +32,16 @@
           <mxGeometry x="180" y="700" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-11" value="行为序列构建&#xa;聚合连续事件形成Agent行为片段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="154" y="1050" width="245" height="84" as="geometry" />
+          <mxGeometry x="154.5" y="940" width="245" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="IaHU0e2Hu6B_418q_M95-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-12" target="IaHU0e2Hu6B_418q_M95-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-12" value="异常检测&#xa;规则检测 + LLM语义分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1183" width="234" height="66" as="geometry" />
+          <mxGeometry x="160" y="1070" width="234" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-13" value="检测到异常？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="283" y="1300" width="145" height="145" as="geometry" />
+          <mxGeometry x="282.5" y="1180" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="228" y="1517" width="254" height="66" as="geometry" />
@@ -81,13 +84,6 @@
         <mxCell id="IaHU0e2Hu6B_418q_M95-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-11" target="IaHU0e2Hu6B_418q_M95-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-12" target="IaHU0e2Hu6B_418q_M95-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="277" y="1275" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.06;entryX=0.55;entryY=0.99;rounded=0;" edge="1" parent="1" source="IaHU0e2Hu6B_418q_M95-13" target="IaHU0e2Hu6B_418q_M95-6">
