@@ -11,7 +11,7 @@
           <mxGeometry x="380" y="410" width="540" height="80" as="geometry" />
         </mxCell>
         <mxCell id="maps_list" value="Hash Map, Array Map, LRU Map, Ring Buffer, Perf Event Array ..." style="rounded=1;fontSize=17;labelBackgroundColor=none;" parent="maps" vertex="1">
-          <mxGeometry x="16.42" y="32.370000000000005" width="507.15" height="44" as="geometry" />
+          <mxGeometry x="16.42" y="31.370000000000005" width="507.15" height="44" as="geometry" />
         </mxCell>
         <mxCell id="anWdjkbYc034opQyJ_07-5" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="80" y="70" width="270" height="420" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="16.872589285714284" y="315.8708225806452" width="236.25" height="52.49999999999999" as="geometry" />
         </mxCell>
         <mxCell id="anWdjkbYc034opQyJ_07-14" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="380" y="70" width="260" height="330" as="geometry" />
+          <mxGeometry x="380" y="89" width="260" height="330" as="geometry" />
         </mxCell>
         <mxCell id="kernel" value="2. 内核加载与验证" style="rounded=0;fontSize=21;labelBackgroundColor=none;container=0;verticalAlign=top;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="anWdjkbYc034opQyJ_07-14" vertex="1">
           <mxGeometry width="260" height="330" as="geometry" />
