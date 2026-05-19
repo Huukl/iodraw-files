@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="anWdjkbYc034opQyJ_07-16" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=21;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="680" y="70" width="220" height="250" as="geometry" />
+          <mxGeometry x="665" y="70" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="compile" value="3. 编译与执行" style="rounded=0;fontSize=21;labelBackgroundColor=none;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;container=0;dashed=1;" parent="anWdjkbYc034opQyJ_07-16" vertex="1">
           <mxGeometry width="220" height="250" as="geometry" />
