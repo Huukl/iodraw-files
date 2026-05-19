@@ -55,7 +55,7 @@
         <mxCell id="kernel_step2" value="验证器 (Verifier): &#xa;安全检查 &#xa;(内存访问, 循环, 可终止性)" style="rounded=1;fontSize=17;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="anWdjkbYc034opQyJ_07-14" vertex="1">
           <mxGeometry x="37.48" y="104.09" width="202.37" height="71.91" as="geometry" />
         </mxCell>
-        <mxCell id="anWdjkbYc034opQyJ_07-4" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="anWdjkbYc034opQyJ_07-14" source="kernel_decision" target="kernel_reject" edge="1">
+        <mxCell id="anWdjkbYc034opQyJ_07-4" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" parent="anWdjkbYc034opQyJ_07-14" source="kernel_decision" target="kernel_reject" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kernel_decision" value="验证通过？" style="rhombus;fontSize=17;labelBackgroundColor=none;" parent="anWdjkbYc034opQyJ_07-14" vertex="1">
