@@ -73,7 +73,7 @@
         <mxCell id="compile" value="3. 编译与执行" style="rounded=0;fontSize=21;labelBackgroundColor=none;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;container=0;dashed=1;" parent="anWdjkbYc034opQyJ_07-16" vertex="1">
           <mxGeometry width="220" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="compile_step1" value="JIT 编译器&#xa; (即时编译为本地指令)" style="rounded=1;fontSize=11;labelBackgroundColor=none;pointerEvents=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;spacing=1;" parent="anWdjkbYc034opQyJ_07-16" vertex="1">
+        <mxCell id="compile_step1" value="JIT 编译器&#xa; (即时编译为本地指令)" style="rounded=1;fontSize=12;labelBackgroundColor=none;pointerEvents=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;spacing=1;" parent="anWdjkbYc034opQyJ_07-16" vertex="1">
           <mxGeometry x="20" y="40" width="180" height="46" as="geometry" />
         </mxCell>
         <mxCell id="compile_step2" value="加载到内核执行环境" style="rounded=1;fontSize=11;labelBackgroundColor=none;pointerEvents=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;spacing=1;" parent="anWdjkbYc034opQyJ_07-16" vertex="1">
