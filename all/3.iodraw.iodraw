@@ -22,10 +22,10 @@
         <mxCell id="1h-1vdi1cig3dPT-uv_0-6" value="系统可观测性指标&#xa;（性能 / 安全）" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=26;textShadow=0;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-2" vertex="1">
           <mxGeometry x="590" y="50" width="260" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="1h-1vdi1cig3dPT-uv_0-7" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="1h-1vdi1cig3dPT-uv_0-7" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2120" y="-2590" width="910" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="1h-1vdi1cig3dPT-uv_0-8" value="数据采集与跨层关联分析层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fontSize=23;dashed=1;dashPattern=8 8;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-7" vertex="1">
+        <mxCell id="1h-1vdi1cig3dPT-uv_0-8" value="数据采集与跨层关联分析层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fontSize=26;dashed=1;dashPattern=8 8;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-7" vertex="1">
           <mxGeometry width="910" height="409.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="1h-1vdi1cig3dPT-uv_0-9" value="" style="group" parent="1h-1vdi1cig3dPT-uv_0-7" vertex="1" connectable="0">
@@ -43,14 +43,14 @@
         <mxCell id="1h-1vdi1cig3dPT-uv_0-13" value="底层行为流&#xa;（系统调用 / 资源使用）" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-9" vertex="1">
           <mxGeometry x="385" y="243.04999999999995" width="300" height="79.94999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="1h-1vdi1cig3dPT-uv_0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" parent="1h-1vdi1cig3dPT-uv_0-9" source="1h-1vdi1cig3dPT-uv_0-15" target="1h-1vdi1cig3dPT-uv_0-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1h-1vdi1cig3dPT-uv_0-15" value="系统事件归因聚合" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=23;fontFamily=宋体;arcSize=25;" parent="1h-1vdi1cig3dPT-uv_0-9" vertex="1">
           <mxGeometry x="193.75" y="99.99999999999997" width="342.5" height="79.94999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="1h-1vdi1cig3dPT-uv_0-16" value="异常行为分析" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=23;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-9" vertex="1">
-          <mxGeometry x="193.75" width="342.5" height="79.94999999999999" as="geometry" />
+        <mxCell id="1h-1vdi1cig3dPT-uv_0-16" value="异常行为分析" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=23;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-7" vertex="1">
+          <mxGeometry x="290" y="19" width="342.5" height="79.94999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1h-1vdi1cig3dPT-uv_0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" parent="1h-1vdi1cig3dPT-uv_0-7" source="1h-1vdi1cig3dPT-uv_0-15" target="1h-1vdi1cig3dPT-uv_0-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1h-1vdi1cig3dPT-uv_0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" parent="1" source="1h-1vdi1cig3dPT-uv_0-8" target="1h-1vdi1cig3dPT-uv_0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
