@@ -11,7 +11,7 @@
           <mxGeometry x="375" y="410" width="510" height="80" as="geometry" />
         </mxCell>
         <mxCell id="maps_list" value="Hash Map, Array Map, LRU Map, Ring Buffer, Perf Event Array ..." style="rounded=1;fontSize=17;labelBackgroundColor=none;" parent="maps" vertex="1">
-          <mxGeometry x="10" y="31.37" width="490" height="44" as="geometry" />
+          <mxGeometry x="10" y="31.37" width="500" height="44" as="geometry" />
         </mxCell>
         <mxCell id="anWdjkbYc034opQyJ_07-5" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="80" y="70" width="270" height="420" as="geometry" />
