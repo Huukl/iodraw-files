@@ -7,10 +7,10 @@
         <mxCell id="1h-1vdi1cig3dPT-uv_0-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 26px;&quot;&gt;被观测对象层（AI Agent 运行环境）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=26;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-2170" y="-2810" width="1000" height="1120" as="geometry" />
         </mxCell>
-        <mxCell id="1h-1vdi1cig3dPT-uv_0-2" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="1h-1vdi1cig3dPT-uv_0-2" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2120" y="-2760" width="910" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="1h-1vdi1cig3dPT-uv_0-3" value="结果输出与应用层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fontSize=23;dashed=1;dashPattern=8 8;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-2" vertex="1">
+        <mxCell id="1h-1vdi1cig3dPT-uv_0-3" value="结果输出与应用层" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fontSize=25;dashed=1;dashPattern=8 8;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-2" vertex="1">
           <mxGeometry width="910" height="128" as="geometry" />
         </mxCell>
         <mxCell id="1h-1vdi1cig3dPT-uv_0-4" value="异常告警" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=23;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-2" vertex="1">
