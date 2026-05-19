@@ -1,48 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="W7JBZ22YSG03NMEsqIfI">
+  <diagram id="A2ZYwA2iB5kbfEYe4wmZ" name="第 1 页">
     <mxGraphModel dx="1213" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="UdM9FD2I4uKsXzepDl2a-17" target="UdM9FD2I4uKsXzepDl2a-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-17" value="异常分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="496" width="320" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="UdM9FD2I4uKsXzepDl2a-2" target="UdM9FD2I4uKsXzepDl2a-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-2" value="eBPF底层事件采集" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="255" y="129" width="250" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="UdM9FD2I4uKsXzepDl2a-3" target="UdM9FD2I4uKsXzepDl2a-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-3" value="事件标准化处理&#xa;统一映射时间戳、事件类型、进程ID、负载信息" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="255" y="202" width="250" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="UdM9FD2I4uKsXzepDl2a-4" target="UdM9FD2I4uKsXzepDl2a-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-4" value="Agent归因&#xa;将事件映射事件至具体Agent" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="255" y="295" width="250" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="UdM9FD2I4uKsXzepDl2a-5" target="UdM9FD2I4uKsXzepDl2a-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-5" value="时间窗口聚合&#xa;构建行为片段&#xa;保留资源访问模式、通信目标及上下文摘要" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="230" y="395" width="300" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-6" value="规则检测" style="whiteSpace=wrap;strokeWidth=1;rounded=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="250" y="531" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-7" value="LLM分析" style="whiteSpace=wrap;strokeWidth=1;rounded=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="400" y="531" width="120" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="UdM9FD2I4uKsXzepDl2a-8" value="结构化Agent行为表示&#xa;可用于异常分析和可视化展示" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="255" y="630" width="250" height="84" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
