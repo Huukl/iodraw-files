@@ -38,7 +38,7 @@
           <mxGeometry x="-30" y="200" width="790" height="147.6" as="geometry" />
         </mxCell>
         <mxCell id="1h-1vdi1cig3dPT-uv_0-12" value="高层语义流&#xa;（提示词 / LLM 响应 / 工具调用）" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-9" vertex="1">
-          <mxGeometry x="-10" y="243.05" width="400" height="79.95" as="geometry" />
+          <mxGeometry x="-10" y="243.05" width="370" height="79.95" as="geometry" />
         </mxCell>
         <mxCell id="1h-1vdi1cig3dPT-uv_0-13" value="底层行为流&#xa;（系统调用 / 资源使用）" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" parent="1h-1vdi1cig3dPT-uv_0-9" vertex="1">
           <mxGeometry x="385" y="243.05" width="345" height="79.95" as="geometry" />
