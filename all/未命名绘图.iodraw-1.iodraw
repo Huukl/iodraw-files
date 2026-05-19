@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-10" value="时间窗口准备就绪？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="180" y="572" width="203" height="100" as="geometry" />
+          <mxGeometry x="200" y="572" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-11" value="行为序列构建&#xa;聚合连续事件形成Agent行为片段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="169" y="706" width="245" height="84" as="geometry" />
