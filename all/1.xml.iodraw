@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="anWdjkbYc034opQyJ_07-16" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=21;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="653" y="70" width="220" height="250" as="geometry" />
+          <mxGeometry x="652" y="70" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="compile" value="3. 编译与执行" style="rounded=0;fontSize=21;labelBackgroundColor=none;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;container=0;dashed=1;" parent="anWdjkbYc034opQyJ_07-16" vertex="1">
           <mxGeometry width="220" height="250" as="geometry" />
@@ -142,7 +142,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="anWdjkbYc034opQyJ_07-15" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="kernel_decision" target="compile_step1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.0924" y="-4" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="290" />
+              <mxPoint x="640" y="133" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4GRtvz3vp7GJw7XUDNh-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="anWdjkbYc034opQyJ_07-15">
+          <mxGeometry x="-0.1987" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
