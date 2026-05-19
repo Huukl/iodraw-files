@@ -37,7 +37,7 @@
         <mxCell id="user_app" value="用户态应用&#xa; (数据读取与处理)" style="rounded=1;fontSize=17;labelBackgroundColor=none;" parent="anWdjkbYc034opQyJ_07-5" vertex="1">
           <mxGeometry x="16.872589285714284" y="315.8708225806452" width="236.25" height="52.49999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="anWdjkbYc034opQyJ_07-14" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
+        <mxCell id="anWdjkbYc034opQyJ_07-14" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="380" y="70" width="260" height="330" as="geometry" />
         </mxCell>
         <mxCell id="kernel" value="2. 内核加载与验证" style="rounded=0;fontSize=21;labelBackgroundColor=none;container=0;verticalAlign=top;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="anWdjkbYc034opQyJ_07-14" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="anWdjkbYc034opQyJ_07-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="anWdjkbYc034opQyJ_07-14" source="kernel_step1" target="kernel_step2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kernel_step1" value="eBPF 程序加载到内核" style="rounded=1;fontSize=21;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="anWdjkbYc034opQyJ_07-14" vertex="1">
+        <mxCell id="kernel_step1" value="eBPF 程序加载到内核" style="rounded=1;fontSize=17;labelBackgroundColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="anWdjkbYc034opQyJ_07-14" vertex="1">
           <mxGeometry x="37.483333333333334" y="37.370000000000005" width="202.36666666666667" height="52.63" as="geometry" />
         </mxCell>
         <mxCell id="anWdjkbYc034opQyJ_07-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="anWdjkbYc034opQyJ_07-14" source="kernel_step2" target="kernel_decision" edge="1">
