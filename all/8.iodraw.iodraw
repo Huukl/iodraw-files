@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-47" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="250" y="754" width="360" height="346" as="geometry" />
+          <mxGeometry x="255" y="754" width="360" height="346" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" parent="NGF_PXvzEg_VlZR0H_Gz-47" vertex="1">
           <mxGeometry width="360" height="346" as="geometry" />
@@ -86,9 +86,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NGF_PXvzEg_VlZR0H_Gz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" source="NGF_PXvzEg_VlZR0H_Gz-3" target="NGF_PXvzEg_VlZR0H_Gz-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
