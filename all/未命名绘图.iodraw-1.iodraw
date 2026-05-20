@@ -56,12 +56,14 @@
         <mxCell id="IaHU0e2Hu6B_418q_M95-12" value="异常检测&#xa;规则检测 + LLM语义分析" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="174.5" y="806" width="234" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="IaHU0e2Hu6B_418q_M95-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IaHU0e2Hu6B_418q_M95-13" target="IaHU0e2Hu6B_418q_M95-6" edge="1">
+        <mxCell id="IaHU0e2Hu6B_418q_M95-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="930" />
-              <mxPoint x="500" y="930" />
+              <mxPoint x="490" y="919" />
+              <mxPoint x="500" y="919" />
             </Array>
+            <mxPoint x="490" y="907" as="sourcePoint" />
+            <mxPoint x="500" y="267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="IaHU0e2Hu6B_418q_M95-33" vertex="1" connectable="0">
