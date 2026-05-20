@@ -77,7 +77,7 @@
           <mxGeometry x="53.51" y="172.56" width="252.97" height="81.44" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-15" value="多粒度行为摘要&#xa;单Agent序列/资源窗口/跨Agent协作" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="NGF_PXvzEg_VlZR0H_Gz-47" vertex="1">
-          <mxGeometry x="53.51" y="266.15867069486404" width="256.49" height="68.34283987915407" as="geometry" />
+          <mxGeometry x="53.51" y="266.16" width="256.49" height="73.84" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" parent="NGF_PXvzEg_VlZR0H_Gz-47" source="NGF_PXvzEg_VlZR0H_Gz-13" target="NGF_PXvzEg_VlZR0H_Gz-14" edge="1">
           <mxGeometry relative="1" as="geometry">
