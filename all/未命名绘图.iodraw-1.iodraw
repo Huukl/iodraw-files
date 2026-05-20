@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-14" value="结果输出层&#xa;结构化日志记录 + 异常标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="252.37" y="983" width="269.75" height="66" as="geometry" />
+          <mxGeometry x="252.37" y="977" width="269.75" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IaHU0e2Hu6B_418q_M95-15" value="前端展示&#xa;时间线、行为图谱、多Agent比较" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="252.37" y="1070" width="269.75" height="84" as="geometry" />
@@ -103,7 +103,7 @@
         </mxCell>
         <mxCell id="49B1niXcysqpXf1gpOZG-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="49B1niXcysqpXf1gpOZG-2">
           <mxGeometry x="-0.6047" y="-4" relative="1" as="geometry">
-            <mxPoint x="14" y="9" as="offset" />
+            <mxPoint x="14" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
