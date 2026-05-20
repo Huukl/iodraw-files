@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-47" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="255" y="754" width="360" height="346" as="geometry" />
+          <mxGeometry x="250" y="754" width="360" height="346" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-3" value="Analyzer管道" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" parent="NGF_PXvzEg_VlZR0H_Gz-47" vertex="1">
           <mxGeometry width="360" height="346" as="geometry" />
@@ -73,8 +73,11 @@
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-13" value="Agent归因&#xa;多信号融合评分&#xa;父子进程继承" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="NGF_PXvzEg_VlZR0H_Gz-47" vertex="1">
           <mxGeometry x="53.51" y="88.72" width="252.97" height="71.28" as="geometry" />
         </mxCell>
+        <mxCell id="4BSbiYxAvqcTJOSr80sC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NGF_PXvzEg_VlZR0H_Gz-47" source="NGF_PXvzEg_VlZR0H_Gz-14" target="NGF_PXvzEg_VlZR0H_Gz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-14" value="事件聚合与行为片段生成&#xa;滑动时间窗口 + 时间/资源/语义关联度" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="NGF_PXvzEg_VlZR0H_Gz-47" vertex="1">
-          <mxGeometry x="53.51" y="172.56" width="252.97" height="81.44" as="geometry" />
+          <mxGeometry x="53.51" y="172.56" width="252.97" height="77.44" as="geometry" />
         </mxCell>
         <mxCell id="NGF_PXvzEg_VlZR0H_Gz-15" value="多粒度行为摘要&#xa;单Agent序列/资源窗口/跨Agent协作" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="NGF_PXvzEg_VlZR0H_Gz-47" vertex="1">
           <mxGeometry x="53.51" y="266.16" width="256.49" height="73.84" as="geometry" />
