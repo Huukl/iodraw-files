@@ -23,7 +23,7 @@
           <mxGeometry x="985" y="433" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-7" value="注册是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="991" y="510" width="145" height="70" as="geometry" />
+          <mxGeometry x="990.5" y="513" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-8" value="提示注册成功并跳转登录页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="611" width="252" height="49" as="geometry" />
@@ -75,10 +75,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9VT9wCItmR_plxg2pGUg-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-6">
+        <mxCell id="9VT9wCItmR_plxg2pGUg-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-6" target="9VT9wCItmR_plxg2pGUg-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1063.5000000000005" y="548" as="targetPoint" />
+            <mxPoint x="1064" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-23" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-7" target="9VT9wCItmR_plxg2pGUg-8">
