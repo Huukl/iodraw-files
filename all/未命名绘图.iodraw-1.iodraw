@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="_Hv7LAYEzMHHF7dlhjet">
-    <mxGraphModel dx="1617" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,22 @@
           <mxGeometry x="460" y="20" width="1080" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-2" value="页面布局层" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="119" width="300" height="49" as="geometry" />
+          <mxGeometry x="254.5" y="119" width="300" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-3" value="业务页面层" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="850.5" y="119" width="300" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-4" value="公共组件层" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="119" width="300" height="49" as="geometry" />
+          <mxGeometry x="1440" y="119" width="300" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-5" value="index.vue" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="140" y="217" width="130" height="49" as="geometry" />
+          <mxGeometry x="160" y="217" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-6" value="index-header.vue" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="217" width="184" height="49" as="geometry" />
+          <mxGeometry x="312.5" y="217" width="184" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-7" value="index-footer.vue" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="490" y="217" width="178" height="49" as="geometry" />
+          <mxGeometry x="510" y="217" width="178" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-8" value="注册/登录" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="718.5" y="217" width="132" height="49" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry x="1170" y="217" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-12" value="收藏/点赞" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="217" width="132" height="49" as="geometry" />
+          <mxGeometry x="1350" y="217" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-13" value="评价/评论" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1544" y="217" width="132" height="49" as="geometry" />
+          <mxGeometry x="1524" y="217" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-14" value="富文本/文件/地图" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="217" width="189" height="49" as="geometry" />
+          <mxGeometry x="1690" y="217" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-15" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;strokeWidth=2;" edge="1" parent="1" source="gOe8t9cI-S9klCUyC4nF-1" target="gOe8t9cI-S9klCUyC4nF-2">
           <mxGeometry relative="1" as="geometry" />
