@@ -29,10 +29,10 @@
           <mxGeometry x="695" y="217" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-9" value="首页/公告" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="844" y="217" width="132" height="49" as="geometry" />
+          <mxGeometry x="862" y="217" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-10" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="1034" y="217" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-11" value="密码修改" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1201" y="217" width="124" height="49" as="geometry" />
