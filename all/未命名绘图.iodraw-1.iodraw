@@ -4,23 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9VT9wCItmR_plxg2pGUg-63" value="进入公告列表页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9VT9wCItmR_plxg2pGUg-63" value="进入公告列表页" style="whiteSpace=wrap;strokeWidth=2;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="72" y="210" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-64" value="请求公告列表数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="277" width="188" height="49" as="geometry" />
+          <mxGeometry x="64" y="294" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-65" value="渲染公告摘要信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="364" width="188" height="49" as="geometry" />
+          <mxGeometry x="64" y="377" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-66" value="点击某条公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="451" width="156" height="49" as="geometry" />
+          <mxGeometry x="80" y="461" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-67" value="携带公告编号跳转详情页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="538" width="236" height="49" as="geometry" />
+          <mxGeometry x="40" y="545" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-68" value="请求公告详情接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="625" width="188" height="49" as="geometry" />
+          <mxGeometry x="64" y="628" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-69" value="渲染完整公告内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="64" y="712" width="188" height="49" as="geometry" />
