@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="_Hv7LAYEzMHHF7dlhjet">
-    <mxGraphModel dx="1516" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-12" value="提交登录接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1462" y="433" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="9VT9wCItmR_plxg2pGUg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-13" target="9VT9wCItmR_plxg2pGUg-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-13" value="身份认证是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1441" y="535" width="177" height="76" as="geometry" />
@@ -103,10 +100,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9VT9wCItmR_plxg2pGUg-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.497;entryY=0.079;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-12" target="9VT9wCItmR_plxg2pGUg-13">
+        <mxCell id="9VT9wCItmR_plxg2pGUg-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1540.5" y="532" as="targetPoint" />
+            <mxPoint x="1529" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-29" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-13" target="9VT9wCItmR_plxg2pGUg-14">
