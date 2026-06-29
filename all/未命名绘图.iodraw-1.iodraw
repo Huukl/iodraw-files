@@ -35,7 +35,7 @@
           <mxGeometry x="1001" y="217" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-11" value="密码修改" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="1160" y="217" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOe8t9cI-S9klCUyC4nF-12" value="收藏/点赞" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1375" y="217" width="132" height="49" as="geometry" />
