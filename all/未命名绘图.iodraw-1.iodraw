@@ -27,11 +27,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-56" value="表单校验" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-51" target="9VT9wCItmR_plxg2pGUg-51">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.042" y="30" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="946" y="369" />
+              <mxPoint x="970" y="380" />
               <mxPoint x="946" y="399" />
             </Array>
+            <mxPoint x="12" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-57" value="发起登录请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-51" target="9VT9wCItmR_plxg2pGUg-52">
@@ -70,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-62" value="跳转首页" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-51" target="9VT9wCItmR_plxg2pGUg-51">
-          <mxGeometry x="0.0603" y="4" relative="1" as="geometry">
+          <mxGeometry x="-0.0904" y="54" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="946" y="711" />
               <mxPoint x="946" y="741" />
