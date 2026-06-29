@@ -20,10 +20,10 @@
           <mxGeometry x="985" y="357" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-6" value="提交注册接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="985" y="530" width="156" height="49" as="geometry" />
+          <mxGeometry x="985" y="433" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-7" value="注册是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="991" y="646" width="145" height="145" as="geometry" />
+          <mxGeometry x="991" y="645" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-8" value="提示注册成功并跳转登录页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="879" width="252" height="49" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="1430" y="357" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-12" value="提交登录接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1462" y="530" width="156" height="49" as="geometry" />
+          <mxGeometry x="1462" y="433" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-13" value="身份认证是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1452" y="630" width="177" height="177" as="geometry" />
+          <mxGeometry x="1452" y="629" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-14" value="保存登录状态到 Vuex" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1318" y="879" width="211" height="49" as="geometry" />
@@ -78,7 +78,7 @@
         <mxCell id="9VT9wCItmR_plxg2pGUg-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1063.5000000000005" y="645" as="targetPoint" />
+            <mxPoint x="1063.5000000000005" y="548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-7" target="9VT9wCItmR_plxg2pGUg-8">
@@ -111,7 +111,7 @@
         <mxCell id="9VT9wCItmR_plxg2pGUg-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1540.5" y="629" as="targetPoint" />
+            <mxPoint x="1540.5" y="532" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-29" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-13" target="9VT9wCItmR_plxg2pGUg-14">
