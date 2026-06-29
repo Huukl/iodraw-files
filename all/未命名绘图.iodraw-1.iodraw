@@ -13,16 +13,16 @@
         <mxCell id="9VT9wCItmR_plxg2pGUg-65" value="渲染公告摘要信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="391" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9VT9wCItmR_plxg2pGUg-66" value="点击某条公告" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;" vertex="1" parent="1">
+        <mxCell id="9VT9wCItmR_plxg2pGUg-66" value="点击某条公告" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="471" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9VT9wCItmR_plxg2pGUg-67" value="携带公告编号跳转详情页" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;" vertex="1" parent="1">
+        <mxCell id="9VT9wCItmR_plxg2pGUg-67" value="携带公告编号跳转详情页" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="551" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9VT9wCItmR_plxg2pGUg-68" value="请求公告详情接口" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;" vertex="1" parent="1">
+        <mxCell id="9VT9wCItmR_plxg2pGUg-68" value="请求公告详情接口" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="632" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9VT9wCItmR_plxg2pGUg-69" value="渲染完整公告内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;" vertex="1" parent="1">
+        <mxCell id="9VT9wCItmR_plxg2pGUg-69" value="渲染完整公告内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="712" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;shadow=0;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-63" target="9VT9wCItmR_plxg2pGUg-64">
