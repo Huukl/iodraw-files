@@ -5,33 +5,33 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9VT9wCItmR_plxg2pGUg-35" value="前台首页" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="168" width="124" height="49" as="geometry" />
+          <mxGeometry x="66" y="218" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-36" value="公告列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="194" y="20" width="124" height="49" as="geometry" />
+          <mxGeometry x="240" y="70" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-37" value="公告详情" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="368" y="20" width="124" height="49" as="geometry" />
+          <mxGeometry x="414" y="70" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-38" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="194" y="119" width="124" height="49" as="geometry" />
+          <mxGeometry x="240" y="169" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-39" value="登录页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="194" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="240" y="267" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-40" value="注册页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="194" y="316" width="124" height="49" as="geometry" />
+          <mxGeometry x="240" y="366" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-41" value="密码修改" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="368" y="119" width="124" height="49" as="geometry" />
+          <mxGeometry x="414" y="169" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-42" value="收藏/点赞/评论" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="542" y="20" width="173" height="49" as="geometry" />
+          <mxGeometry x="588" y="70" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-35" target="9VT9wCItmR_plxg2pGUg-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="169" y="44" />
+              <mxPoint x="215" y="94" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,21 +43,21 @@
         <mxCell id="9VT9wCItmR_plxg2pGUg-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0;entryY=0.49;rounded=0;fontSize=16;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-35" target="9VT9wCItmR_plxg2pGUg-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="169" y="143" />
+              <mxPoint x="215" y="193" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-35" target="9VT9wCItmR_plxg2pGUg-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="169" y="242" />
+              <mxPoint x="215" y="292" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9VT9wCItmR_plxg2pGUg-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0.99;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="1" source="9VT9wCItmR_plxg2pGUg-35" target="9VT9wCItmR_plxg2pGUg-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="169" y="340" />
+              <mxPoint x="215" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
